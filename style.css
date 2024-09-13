@@ -1,0 +1,14 @@
+h1,
+h2 {
+  font-weight: bold;
+}
+button {
+  padding: 7.5px;
+  font-weight: bold;
+}
+.student-input {
+  margin-bottom: 10px;
+}
+.result {
+  margin-top: 20px;
+}
